@@ -1,3 +1,5 @@
+SHOW DATABASES
+  
 USE nailsdb;
 
 INSERT INTO Role (roleID, roleName) VALUES
